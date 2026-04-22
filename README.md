@@ -9,12 +9,12 @@ A real-time barcode and QR code scanning application using Python, OpenCV, and p
 - Duplicate scan prevention via runtime scan history
 
 ## Project Structure
-├── generate_data.py             # Generate mock product database (products.csv)
-├── generate_qr.py               # Generate QR code images from the database
-├── QR_Barcode_Project.py        # Main real-time scanner application
+├── QR_Barcode_Project.py              # Main real-time scanner application
+├── generate_data.py                   # Generate mock product database (products.csv)
+├── generate_qr.py                     # Generate QR code images from the database
 ├── requirements.txt
-├── QR_Barcode_Report.pdf        # Detailed technical report
-├── QR-Barcode_Presentation.pdf  # Project presentation slides
+├── QR_Barcode_Report.pdf              # Detailed technical report
+├── QR-Barcode_Presentation.pdf        # Project presentation slides
 └── README.md
 
 ## Setup & Usage
